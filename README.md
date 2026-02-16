@@ -7,7 +7,7 @@
   <a href="https://asimpunmagar.com.np" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-asimpunmagar.com.np-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/magarasim" target="_blank">
+  <a href="https://github.com/asimmagar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-magarasim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/asim-pun-magar-006922309/" target="_blank">
@@ -126,7 +126,7 @@ I’m open to:
 📫 **Contact**
 
 - 🌐 Portfolio: [asimpunmagar.com.np](https://asimpunmagar.com.np)  
-- 🐙 GitHub: [@magarasim](https://github.com/magarasim)  
+- 🐙 GitHub: [@magarasim](https://github.com/asimmagar)  
 - 💼 LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/)  
 
 Thanks for visiting my profile! Feel free to explore my repositories and star any project you find useful.
