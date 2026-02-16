@@ -1,112 +1,111 @@
-# 👋 Hi, I'm Asim Pun Magar
+<!-- HEADER -->
 
-### Junior Digital Technology & Software Developer from Nepal
+<h1 align="center">Hi, I'm Asim Pun Magar 👋</h1>
+<h3 align="center">Junior Digital Technology & Software Developer from Nepal</h3>
 
-I’m a junior software developer with a strong interest in Python, Django, WordPress, and modern web development. [web:51][web:13]  
-I enjoy learning by doing: building real projects, shipping features, and improving my skills one commit at a time.
+<p align="center">
+  <a href="https://github.com/magarasim">
+    <img src="https://img.shields.io/github/followers/magarasim?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/magarasim?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Projects-blue?style=for-the-badge" alt="Projects Badge" />
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 📍 Based in Nepal  
-- 🎓 Background: Science student + software development training  
-- 💼 Junior Digital Technology & Software Developer at **EasyMy Learning Pvt. Ltd.** (internship experience) [web:51][web:52]  
-- 💻 Working with **Python, Django, WordPress, and web technologies** [web:13]  
-- 🏅 Recognized as an **Outstanding Team Performer** at EasyMy Learning [web:55]  
-- 🎯 Goal: Grow into a strong full‑stack developer and contribute to impactful projects  
+- 🌍 Based in Nepal  
+- 🎓 Junior digital technology & software developer, with a science background  
+- 💼 Experience as a junior developer / intern working with Python, Django & web technologies  
+- 💻 Interested in web development, Django, WordPress, and clean UI/UX  
+- 🎯 Goal: Grow into a strong full‑stack developer with real‑world projects and solid fundamentals  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### Languages
 
-- Python  
-- JavaScript  
-- HTML, CSS  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
 
-**Backend & Frameworks**
+### Frameworks & Tools
 
-- Django (web applications, templates, views, models) [web:13][web:52]  
-- Basic REST concepts and server‑side logic  
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+</p>
 
-**Web & CMS**
+### What I Work On
 
-- WordPress development (themes, basic customization) [web:13]  
-- Responsive design and layout  
-- Form handling, basic authentication, and content‑driven sites  
-
-**Tools**
-
-- Git & GitHub  
-- VS Code  
-- Browser DevTools  
-
----
-
-## 💼 Experience & Highlights
-
-- 🧑‍💻 **Junior Software Developer – EasyMy Learning Pvt. Ltd.**  
-  - Worked on web projects using Python and Django  
-  - Collaborated in a team environment and followed development workflows  
-  - Gained hands‑on experience with real codebases and client‑oriented work [web:51][web:52]
-
-- 🏅 **Outstanding Team Performer – EasyMy Learning Pvt. Ltd.**  
-  - Official credential and recognition for team contribution and performance [web:55]
+- Building and improving portfolio and web projects  
+- Creating Django and WordPress based sites and small web apps  
+- Practicing clean code, project structure, and documentation  
+- Exploring how tech can solve real problems in education and daily life  
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌐 Portfolio & Socials
 
-> Update the portfolio URL if you change your domain or structure.
+<p>
+  <a href="https://asimpunmagar.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-asimpunmagar.com.np-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/magarasim">
+    <img src="https://img.shields.io/badge/GitHub-magarasim-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asim-pun-magar-006922309/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asim%20Pun%20Magar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🌎 Portfolio: `asimpunmagar.com.np` – my personal portfolio & project showcase  
-- 🐙 GitHub: [github.com/magarasim](https://github.com/magarasim)  
-- 💼 LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/) [web:51]  
-
-(You can also add Facebook/Instagram if you want them on your profile.)
-
----
-
-## 🚀 What I’m Working On
-
-- Building and improving **portfolio and web projects** using Django and WordPress  
-- Strengthening my backend fundamentals (models, views, auth, forms, deployment basics)  
-- Practicing clean code, project structure, and better documentation  
-- Exploring ways to combine web development with practical use cases (education, business, etc.)
+(You can add Facebook / Instagram badges if you want them visible publicly.)
 
 ---
 
-## 📂 Types of Projects I’m Interested In
+## 📂 What You’ll Find in My Repos
 
-- Portfolio and personal branding websites  
-- Blog or content sites (Django or WordPress)  
-- Simple web apps with authentication, forms, and dashboards  
-- Small tools that solve real problems for students and learners  
+- Personal portfolio code and UI experiments  
+- Django mini‑projects (authentication, forms, CRUD, dashboards, etc.)  
+- WordPress and web‑related experiments  
+- Practice projects as I learn new concepts and tools  
+
+I try to keep my projects readable and structured so they are easy to understand and improve over time.
 
 ---
 
 ## 📊 GitHub Stats
 
-> Make sure the username matches your GitHub username exactly.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magarasim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Asim's GitHub stats](https://github-readme-stats.vercel.app/api?username=magarasim&show_icons=true&theme=tokyonight) [web:12]  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magarasim&layout=compact&theme=tokyonight) [web:12]  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarasim&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Open to Collaborate
 
-I’m open to:
+I’m interested in:
 
-- Collaborating on beginner–intermediate web projects (Django, WordPress, or general web dev)  
-- Learning groups and study partners for Python/Django and web development  
-- Feedback on my portfolio or any of my projects  
+- Beginner–intermediate web projects (Django, WordPress, or general web dev)  
+- Study groups and learning partners for Python, Django, and web development  
+- Feedback on my portfolio and projects  
 
-📫 **Reach me on:**  
-- LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/) [web:51]  
-- GitHub: [github.com/magarasim](https://github.com/magarasim)
+📫 **Reach me via**
 
-Thanks for visiting my profile! Feel free to explore my repositories and leave a ⭐ on anything you find useful.
+- LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/)  
+- GitHub: [@magarasim](https://github.com/magarasim)
+
+If you found something useful here, feel free to explore my repos and drop a ⭐ on projects you like!
