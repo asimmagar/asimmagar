@@ -19,16 +19,14 @@
 
 ## 👨‍💻 About Me
 
-I’m a junior digital technology & software developer from Nepal, passionate about building modern, responsive web applications and learning full‑stack development step by step.  
-On my portfolio site, I showcase who I am, what I work on, and how I can help with digital products and web solutions.
+I’m a junior digital technology & software developer from Nepal, focused on building modern, responsive web applications and learning full‑stack development.  
+On my portfolio site, I showcase my journey, skills, and projects across Python/Django, WordPress, React.js, and frontend development.
 
 - 🌍 Based in Nepal  
-- 🎓 Science background + software development skills  
-- 💼 Experience as a junior developer / intern working with Python, Django, WordPress, and web technologies  
-- 💡 Interested in web development, UI/UX, and practical digital solutions  
-- 🎯 Goal: Build real‑world projects, strengthen my fundamentals, and grow into a strong full‑stack developer  
-
-> You can copy your exact “About” text from `asimpunmagar.com.np` and paste it here if you want it to match 100%.
+- 🎓 Science background plus dedicated software development learning  
+- 💼 Experience working as a junior developer / intern with real web projects  
+- 💡 Interested in Django, React.js, WordPress, and clean, user‑friendly interfaces  
+- 🎯 Goal: Become a strong full‑stack developer with production‑ready projects  
 
 ---
 
@@ -43,24 +41,29 @@ On my portfolio site, I showcase who I am, what I work on, and how I can help wi
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
-### Frameworks, Tools & Platforms
+### Frameworks, Libraries & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+</p>
+
+### Tools & Workflow
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
 
-### What I Do (matching your portfolio sections)
+### What I Do (as shown on my portfolio)
 
-- **Portfolio Websites & Personal Branding** – clean, responsive personal sites.  
-- **Django Web Apps** – simple web applications with templates, forms, and basic logic.  
-- **WordPress Sites** – blog / content‑based sites with customization.  
-- **UI / Frontend Work** – sections, components, and layouts with attention to detail.  
-
-> Replace or extend this list according to the “Skills” / “Services” section on your site.
+- **Portfolio & Personal Branding Sites** – clean, responsive websites that introduce who you are and what you do.  
+- **Django Web Applications** – server‑side rendered apps with templates, forms, models, and basic business logic.  
+- **React.js Frontend Work** – component‑based UIs with modern JavaScript and reusable design.  
+- **WordPress Development** – content‑driven sites and blogs with theme customization.  
+- **UI / Frontend Implementation** – sections, animations, and layouts that match a design and feel good to use.  
 
 ---
 
@@ -68,62 +71,47 @@ On my portfolio site, I showcase who I am, what I work on, and how I can help wi
 
 - 🧑‍💻 **Junior Digital Technology & Software Developer**  
   *EasyMy Learning Pvt. Ltd. (Intern / Junior Role)*  
-  - Worked on real web projects using Python, Django, and related tools.  
-  - Collaborated with a team and followed development workflows.  
-  - Gained hands‑on experience building and maintaining web features.
+  - Worked on real web projects using Python, Django, and related technologies.  
+  - Gained experience with team workflows, version control, and delivering features.  
+  - Built and maintained parts of production‑oriented web solutions.
 
 - 🎓 **Academic Background**  
-  - Science stream student (Class 11–12)  
-  - Strong interest in computer science, programming, and technology.
-
-> If your site has a timeline (Experience, Education, Certificates), you can list each item here as bullet points.
+  - Science stream (Class 11–12) with strong interest in programming and technology.  
+  - Self‑driven learning in web development, full‑stack concepts, and software engineering basics.
 
 ---
 
 ## 🌐 Portfolio
 
-You can explore more about me, my skills, and my projects on my portfolio:
+You can see the full version of my story, skills, and projects on my portfolio site:
 
 - 🔗 **Portfolio:** [asimpunmagar.com.np](https://asimpunmagar.com.np)
 
-Typical sections you might see on my site:
+Typical sections on my site:
 
-- **Home / Hero** – who I am and what I do.  
-- **About** – background, journey, and interests.  
-- **Skills / Tech Stack** – tools and technologies I use.  
-- **Projects** – highlighted work and case studies.  
-- **Contact** – ways to connect or work with me.  
-
-> If your site has specific project names, you can list them here under a “Featured Projects” subsection.
+- **Home / Hero** – short introduction and call‑to‑action.  
+- **About** – who I am, what I’m learning, and my goals.  
+- **Skills / Tech Stack** – detailed breakdown of tools I use (Python, Django, React, WordPress, etc.).  
+- **Projects** – selected work and case study style descriptions.  
+- **Contact** – easy ways to get in touch or start a project.  
 
 ---
 
 ## 📂 Featured Projects
 
-> Replace these placeholders with your real projects from the “Projects” section of your portfolio.
+> Replace these placeholders with real project titles and links from your portfolio.
 
-- **Project 1 – Portfolio Website**  
-  Personal portfolio website showcasing my profile, skills, and work, built with modern frontend practices.
+- **Portfolio Website – asimpunmagar.com.np**  
+  Personal portfolio built to present my profile, experience, skills, and projects in a clean, professional way.
 
-- **Project 2 – Django Web App**  
-  A small Django‑based web application with forms, views, and simple business logic.
+- **Django Web App**  
+  A Django‑based web application implementing templates, forms, and basic CRUD features for a specific use case.
 
-- **Project 3 – WordPress Site**  
-  A WordPress site customized with theme configuration and content structure.
+- **React.js Frontend Project**  
+  A React‑based UI demonstrating components, state management, and responsive layout.
 
-You can link each item to the live demo or GitHub repo once you have them public.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magarasim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magarasim&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- **WordPress Site**  
+  A WordPress project where I configured the theme, structure, and content to match a real‑world requirement.
 
 ---
 
@@ -131,9 +119,9 @@ You can link each item to the live demo or GitHub repo once you have them public
 
 I’m open to:
 
-- Collaborating on beginner–intermediate web projects  
-- Building portfolio sites, simple web apps, and learning projects  
-- Getting feedback on my work and improving my skills  
+- Collaborating on beginner–intermediate web projects (Django, React.js, WordPress, or general web dev)  
+- Building portfolio sites and small web applications  
+- Learning together and exchanging feedback on projects  
 
 📫 **Contact**
 
@@ -141,4 +129,4 @@ I’m open to:
 - 🐙 GitHub: [@magarasim](https://github.com/magarasim)  
 - 💼 LinkedIn: [Asim Pun Magar](https://www.linkedin.com/in/asim-pun-magar-006922309/)  
 
-Thanks for visiting my profile! Feel free to explore my repositories and star any project you find interesting.
+Thanks for visiting my profile! Feel free to explore my repositories and star any project you find useful.
