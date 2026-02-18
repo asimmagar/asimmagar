@@ -16,9 +16,9 @@ I am an aspiring web developer with a strong interest in building practical and 
 Currently, I am exploring both frontend and backend development while focusing on writing clean, structured, and maintainable code.
 
 - 🌱 Actively learning modern web development technologies  
-- 🧠 Building foundational knowledge through real projects  
+- 🧠 Strengthening my foundation through hands-on projects  
 - 🔍 Exploring best practices in project structure and code organization  
-- 🚀 Continuously improving through hands-on experimentation  
+- 🚀 Continuously improving through consistent experimentation  
 
 ---
 
@@ -26,18 +26,21 @@ Currently, I am exploring both frontend and backend development while focusing o
 
 ### 💻 Currently Learning
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub workflow  
-- Core web development principles  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ### 🛠 Tools & Environment
 
-- Git & GitHub  
-- Visual Studio Code  
-- Browser Developer Tools  
-- Online documentation and technical resources  
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</p>
 
 ---
 
@@ -45,18 +48,18 @@ Currently, I am exploring both frontend and backend development while focusing o
 
 This GitHub account reflects my learning journey. Here you will find:
 
-- Practice projects and structured coding exercises  
-- Small applications built while learning new concepts  
-- Experimental ideas and early-stage implementations  
-- Progressive improvements in code quality and structure  
+- 📌 Practice projects and structured coding exercises  
+- 🧪 Small applications built while learning new concepts  
+- 💡 Experimental ideas and early-stage implementations  
+- 📈 Continuous improvements in code quality and structure  
 
-As I continue developing my skills, these projects will evolve into more complete and structured applications.
+As I continue developing my skills, these projects will gradually evolve into more complete and well-structured applications.
 
 ---
 
 ## 🎯 Learning Goals
 
-- Build a strong and reliable foundation in web development  
+- Build a strong foundation in web development  
 - Develop clean, responsive, and user-friendly interfaces  
 - Understand backend fundamentals and full-stack integration  
 - Progress toward building complete, production-ready applications  
@@ -77,4 +80,4 @@ If you would like to share feedback, suggestions, or opportunities to collaborat
 
 ---
 
-Thank you for visiting my profile and supporting my growth as a developer.
+Thank you for visiting my profile and supporting my growth as a developer 🚀
